@@ -1,0 +1,2 @@
+# GitPhoenix0
+安全加密C语言库OpenSSL，在Android中服务器和客户端之间的签名验证和数据加密通信等。
